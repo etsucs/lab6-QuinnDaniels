@@ -1,0 +1,15 @@
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.csproj.AssemblyReference.cache
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfoInputs.cache
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.AssemblyInfo.cs
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.csproj.CoreCompileInputs.cache
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\Homework6.exe
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\Homework6.deps.json
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\Homework6.runtimeconfig.json
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\Homework6.dll
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\ref\Homework6.dll
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\bin\Debug\net6.0\Homework6.pdb
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.dll
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\ref\Homework6.dll
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.pdb
+D:\_1) classes\CSCI-1250-201\CSCI1250\Labs\Lab6\Homework6\obj\Debug\net6.0\Homework6.genruntimeconfig.cache
